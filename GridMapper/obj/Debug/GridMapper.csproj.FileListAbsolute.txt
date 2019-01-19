@@ -1,0 +1,10 @@
+D:\Documents\GitLocal\GridMapper\GridMapper\obj\Debug\GridMapper.csprojResolveAssemblyReference.cache
+D:\Documents\GitLocal\GridMapper\GridMapper\obj\Debug\GridMapper.Form1.resources
+D:\Documents\GitLocal\GridMapper\GridMapper\obj\Debug\GridMapper.Properties.Resources.resources
+D:\Documents\GitLocal\GridMapper\GridMapper\obj\Debug\GridMapper.csproj.GenerateResource.Cache
+D:\Documents\GitLocal\GridMapper\GridMapper\obj\Debug\GridMapper.csproj.CoreCompileInputs.cache
+D:\Documents\GitLocal\GridMapper\GridMapper\bin\Debug\GridMapper.exe.config
+D:\Documents\GitLocal\GridMapper\GridMapper\bin\Debug\GridMapper.exe
+D:\Documents\GitLocal\GridMapper\GridMapper\bin\Debug\GridMapper.pdb
+D:\Documents\GitLocal\GridMapper\GridMapper\obj\Debug\GridMapper.exe
+D:\Documents\GitLocal\GridMapper\GridMapper\obj\Debug\GridMapper.pdb
