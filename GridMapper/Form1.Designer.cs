@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-namespace GridMapper{
+//namespace GridMapper{
     partial class Form1 : Form {
         
         private System.ComponentModel.IContainer components = null;
@@ -259,5 +259,5 @@ namespace GridMapper{
         private Label label6;
         private Button button3;
     }
-}
+//}
 
